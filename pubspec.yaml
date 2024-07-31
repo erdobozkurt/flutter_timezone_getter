@@ -1,7 +1,7 @@
 name: timezone_getter
 description: A package to convert timezone codes to timezone names.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/erdobozkurt/flutter_timezone_getter
 
 environment:
   sdk: ^3.4.4
